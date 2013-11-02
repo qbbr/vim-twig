@@ -13,6 +13,7 @@ snippets
 {
 #
 %
+path
 include
 extends
 import

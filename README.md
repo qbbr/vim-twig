@@ -1,6 +1,9 @@
 vim-twig
 ========
 
+[Twig](http://twig.sensiolabs.org) syntax and snippets.  
+Based on [evidens vim-twig](https://github.com/evidens/vim-twig)
+
 syntax
 ------
 
@@ -13,20 +16,34 @@ snippets
 {
 #
 %
-path
-include
-extends
-import
-if
+asset
+autoescape
+block
+constant
+do
+dump
 else
 elseif
+embed
+endif
+extends
+filte
+flush
 for
-block
-debug
-set
-filter
+from
+iblock
+if
+import
+include
 macro
+parent
+path
 raw
-autoescape
+render
+sandbox
+set
 spaceless
+url
+use
+verbatim
 ```

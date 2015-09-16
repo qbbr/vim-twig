@@ -19,6 +19,7 @@ snippets
 asset
 autoescape
 block
+iblock
 constant
 do
 dump
@@ -31,8 +32,8 @@ filte
 flush
 for
 from
-iblock
 if
+iif
 import
 include
 macro

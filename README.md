@@ -26,6 +26,7 @@ dump
 else
 elseif
 embed
+endfor
 endif
 extends
 filte

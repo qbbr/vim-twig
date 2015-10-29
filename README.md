@@ -22,7 +22,7 @@ block
 iblock
 constant
 do
-dump
+d, dump
 else
 elseif
 embed

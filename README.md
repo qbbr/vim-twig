@@ -30,7 +30,7 @@ endblock
 endfor
 endif
 extends
-filte
+filter
 flush
 for
 from

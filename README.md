@@ -26,6 +26,7 @@ d, dump
 else
 elseif
 embed
+endblock
 endfor
 endif
 extends

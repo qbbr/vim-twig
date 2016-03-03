@@ -45,6 +45,7 @@ raw
 render
 sandbox
 set
+setblock
 spaceless
 url
 use

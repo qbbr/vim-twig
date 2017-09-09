@@ -1,4 +1,4 @@
-# Twig Vim plugin
+# Twig syntax and snippets for Vim
 
 [Twig](https://twig.symfony.com/) syntax and snippets.  
 Based on [evidens vim-twig](https://github.com/evidens/vim-twig)
